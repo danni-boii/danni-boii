@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny Wong 👦</h1>
 
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEnyWRX8N_CIQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrhbLy2HAAg-/0/1764718591578?e=1768435200&v=beta&t=q0gWqXFUK0Xg1mVxFMoMMgSwKrrP3wyHeANq5ZwEwqg" alt="personal header">
-</div>
-
 <p align="center">
 <a href="https://github.com/danni-boii"><img src="https://img.shields.io/github/followers/danni-boii?logo=GitHub&style=for-the-badge" alt="Github Followers" /></a>
 <a href="https://github.com/danni-boii"><img src="https://img.shields.io/github/stars/danni-boii?logo=github&style=for-the-badge" alt="Github Stars" /></a>
