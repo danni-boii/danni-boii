@@ -18,7 +18,7 @@ Working hard but hardly working.
 ### A little bit about me
 
 - 🎓 I was graduated in The Chinese University of Hong Kong. Gaining me the degree of `Bachelor of Information Engineering`.
-- 💼 I'm currently working for The Hong Kong Polytechnic University as a full-time analyst programmer.
+- 💼 I'm currently working for College of Professional and Continuing Education (self-financed college of The Hong Kong Polytechnic University) as a full-time analyst programmer.
 - 📫 How to reach me **dannychohei@gmail.com**
 
 ### My Projects
